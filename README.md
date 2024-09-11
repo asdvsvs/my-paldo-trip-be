@@ -22,6 +22,7 @@
 ## 프로젝트 소개
 
 * 프로젝트 기간 : 2024.1.4 ~ 2024.2.8
+* 발표 PPT : https://www.canva.com/design/DAF7-DEKFvw/oW2sazI1O82zhIXIgUnUbA/view
 * 시연 영상 : [MyPaldoTrip 시연 영상]()
 * 베포 사이트 : [MyPaldoTrip](https://www.mypaldotrip.site/) (운영X)
 * Front Repository : [MyPaldoTrip-Fe](https://github.com/MyPaldoTrip/my-paldo-trip-fe)
