@@ -23,7 +23,7 @@
 
 * 프로젝트 기간 : 2024.1.4 ~ 2024.2.8
 * 시연 영상 : [MyPaldoTrip 시연 영상]()
-* 베포 사이트 : [MyPaldoTrip](https://www.mypaldotrip.site/) 운영X
+* 베포 사이트 : [MyPaldoTrip](https://www.mypaldotrip.site/) (운영X)
 * Front Repository : [MyPaldoTrip-Fe](https://github.com/MyPaldoTrip/my-paldo-trip-fe)
 
 > 다수의 사용자가 동시에 이용해도 안정적으로 서비스를 제공하며, 사용자의 다양하고 복잡한 검색 요구를 충족시키는 뛰어난 검색 기능을 보유하였습니다. 또한, 실시간 채팅 기능을 통해 사용자 간의 커뮤니케이션을 원활하게 지원하며, 이를 통해 정보를 효과적으로 공유하는 여행 커뮤니티 서비스를 제공합니다.
