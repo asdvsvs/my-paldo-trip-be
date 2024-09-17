@@ -71,7 +71,11 @@
 <details>
     <summary>Infra</summary>
   
+* EC2
 * S3
+* RDS
+* NGINX
+* Github Action 
 * Docker
 </details>
 
